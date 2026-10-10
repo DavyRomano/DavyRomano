@@ -1,51 +1,45 @@
  <div align="center">
 
-<a href="https://github.com/DavyRomano">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,25:180606,55:7F1010,80:DC2626,100:030303&height=250&section=header&text=DAVY%20ROMANO&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=DESENVOLVIMENTO%20WEB%20%2F%2F%20TECNOLOGIA%20%2F%2F%20CRIATIVIDADE&descSize=14&descAlignY=56" alt="Banner principal"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:7928CA,40:0070F3,60:00C9A7,80:FFD000,100:FF0080&height=250&section=header&text=DAVY%20ROMANO&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=DESENVOLVIMENTO%20WEB%20%E2%80%A2%20TECNOLOGIA%20%E2%80%A2%20CRIATIVIDADE&descSize=14&descAlignY=58" alt="Banner colorido"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=650&color=FF4545&center=true&vCenter=true&width=750&lines=Desenvolvendo+ideias+em+forma+de+c%C3%B3digo.;Front-End+%7C+Back-End+%7C+Banco+de+Dados.;Aprender.+Construir.+Testar.+Melhorar." alt="Introdução animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2300&pause=650&color=00F5FF&center=true&vCenter=true&width=750&lines=Transformando+ideias+em+c%C3%B3digo.;Criando+experi%C3%AAncias+para+a+web.;Aprendendo.+Construindo.+Evoluindo." alt="Apresentação animada"/>
 
 <br/><br/>
 
-<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-101010?style=for-the-badge&logo=github&logoColor=FF4545&labelColor=101010&color=991B1B"/></a>
-<a href="https://github.com/DavyRomano?tab=followers"><img src="https://img.shields.io/github/followers/DavyRomano?style=for-the-badge&logo=github&logoColor=FF4545&label=SEGUIDORES&labelColor=101010&color=991B1B"/></a>
-<a href="https://github.com/DavyRomano"><img src="https://komarev.com/ghpvc/?username=DavyRomano&style=for-the-badge&color=991B1B&label=VISITAS+AO+PERFIL"/></a>
+<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/🚀_PROJETOS-FF0080?style=for-the-badge&labelColor=151515" alt="Projetos"/></a>
+<a href="https://github.com/DavyRomano?tab=followers"><img src="https://img.shields.io/github/followers/DavyRomano?style=for-the-badge&logo=github&label=SEGUIDORES&color=7928CA&labelColor=151515" alt="Seguidores"/></a>
+<a href="https://github.com/DavyRomano"><img src="https://img.shields.io/badge/STATUS-CODANDO-00C9A7?style=for-the-badge&labelColor=151515" alt="Status"/></a>
 
 <br/><br/>
 
-<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&color=0:450A0A,50:EF4444,100:450A0A&height=3" alt="Divisor neon"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,25:7928CA,50:0070F3,75:00C9A7,100:FFD000&height=5" alt="Barra colorida"/>
 
 </div>
 
-## `01` / PERFIL
+## 🧑‍💻 `01` — Quem sou eu?
 
 <div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### Desenvolvedor em evolução.
+### Olá! Bem-vindo ao meu perfil.
 
-Sou estudante de programação com foco em desenvolvimento web. Gosto de entender como as aplicações funcionam, criar interfaces e transformar ideias em projetos que possam ser utilizados de verdade.
+Sou estudante de programação e desenvolvimento web. Gosto de criar sites, explorar tecnologias e transformar ideias em projetos funcionais.
 
-Atualmente, estou fortalecendo minha base de programação por meio de estudos e projetos práticos.
+**O que estou desenvolvendo:**
 
-- Desenvolvimento de páginas web responsivas.
-- Criação de interfaces e componentes visuais.
-- Programação com JavaScript e PHP.
-- Banco de dados e consultas SQL.
-- Organização de projetos e versionamento com Git.
+- 🌐 Sites e interfaces responsivas.
+- 🎨 Layouts com identidade visual própria.
+- ⚡ Funcionalidades com JavaScript.
+- 🗄️ Aplicações com PHP e SQL.
+- 🛠️ Projetos práticos para evoluir na programação.
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&theme=dark&perline=3" alt="Tecnologias principais"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ESTUDANDO%20E%20CONSTRUINDO-991B1B?style=for-the-badge&labelColor=101010" alt="Status de desenvolvimento"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&theme=dark&perline=2" alt="Ícones de programação"/>
 
 </td>
 </tr>
@@ -55,181 +49,156 @@ Atualmente, estou fortalecendo minha base de programação por meio de estudos e
 
 ---
 
-## `02` / TECNOLOGIAS
+## 🎨 `02` — Minha caixa de ferramentas
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+### 🌈 Front-End
 
-### Front-End
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" alt="Front-End"/>
-
-<sub>Estrutura, estilo e interatividade</sub>
-
-</td>
-<td align="center" width="33%">
-
-### Back-End
-
-<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP"/>
-
-<sub>Lógica e funcionalidades de aplicações</sub>
-
-</td>
-<td align="center" width="33%">
-
-### Dados e ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark&perline=3" alt="Dados e ferramentas"/>
-
-<sub>SQL, versionamento e colaboração</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
+
+<br/><br/>
+
+### ⚙️ Back-End e banco de dados
+
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="PHP e MySQL"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+### 🧰 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white"/>
 
 </div>
 
 ---
 
-## `03` / PROJETO EM DESTAQUE
+## 🚀 `03` — Projeto em destaque
 
 <div align="center">
 
 <a href="https://github.com/DavyRomano/PetLife">
-<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DavyRomano&repo=PetLife&hide_border=true&bg_color=090909&title_color=FF4545&icon_color=EF4444&text_color=E5E5E5" alt="Projeto PetLife"/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DavyRomano&repo=PetLife&hide_border=true&bg_color=151515&title_color=FF4DAD&icon_color=00E5FF&text_color=FFFFFF" alt="Projeto PetLife"/>
 </a>
 
 </div>
 
-### PetLife — Projeto web
+### 🐾 PetLife
 
-Um projeto voltado ao universo pet, com páginas dedicadas a produtos, serviços e informações. O desenvolvimento ajuda a praticar a criação de interfaces, a estruturação de páginas e a organização de arquivos.
+Um projeto web voltado ao universo pet, com páginas para produtos, serviços e informações. É parte da minha prática com desenvolvimento de sites, organização de páginas e criação de interfaces.
 
 <div align="center">
 
-<a href="https://github.com/DavyRomano/PetLife"><img src="https://img.shields.io/badge/ABRIR%20REPOSIT%C3%93RIO-B91C1C?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR%20PROJETOS-171717?style=for-the-badge&logo=github&logoColor=FF4545"/></a>
+<a href="https://github.com/DavyRomano/PetLife"><img src="https://img.shields.io/badge/🐾_CONHECER%20PETLIFE-FF0080?style=for-the-badge&labelColor=151515" alt="Conhecer PetLife"/></a>
+<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/💻_OUTROS%20PROJETOS-0070F3?style=for-the-badge&labelColor=151515" alt="Outros projetos"/></a>
 
 </div>
 
 ---
 
-## `04` / PAINEL DE ESTATÍSTICAS
-
-<div align="center">
-
-<a href="https://github.com/DavyRomano">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavyRomano&show_icons=true&hide_border=true&bg_color=090909&title_color=FF4545&icon_color=EF4444&text_color=E5E5E5&rank_icon=github&include_all_commits=true"/>
-</a><a href="https://github.com/DavyRomano">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyRomano&layout=compact&hide_border=true&bg_color=090909&title_color=FF4545&text_color=E5E5E5&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=DavyRomano&hide_border=true&background=090909&ring=EF4444&fire=FF4545&currStreakLabel=FF4545&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Sequência de contribuições"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:450A0A,50:EF4444,100:450A0A&height=2" alt="Divisor"/>
-
-</div>
-
-> As estatísticas são carregadas dinamicamente por serviços externos. As linguagens exibidas dependem dos repositórios públicos analisados pelo serviço.
-
----
-
-## `05` / CONTRIBUIÇÕES
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Cada+projeto+traz+um+novo+desafio.;Cada+erro+ensina+alguma+coisa.;Evolu%C3%A7%C3%A3o+acontece+na+pr%C3%A1tica." alt="Animação de desenvolvimento"/>
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/DavyRomano/DavyRomano/output/github-contribution-grid-snake-dark.svg" alt="Animação da grade de contribuições"/>
-
-</div>
-
----
-
-## `06` / OBJETIVOS DE DESENVOLVIMENTO
+## 🧪 `04` — Meu processo de desenvolvimento
 
 <div align="center">
 
 <table>
 <tr>
-<th>Área</th>
-<th>Foco atual</th>
-<th>Direção</th>
-</tr>
-<tr>
-<td>Front-End</td>
-<td>HTML, CSS e JavaScript</td>
-<td>Interfaces responsivas e interativas</td>
-</tr>
-<tr>
-<td>Back-End</td>
-<td>PHP e lógica de programação</td>
-<td>Aplicações com funcionalidades reais</td>
-</tr>
-<tr>
-<td>Banco de dados</td>
-<td>SQL e MySQL</td>
-<td>Consultas e modelagem de dados</td>
-</tr>
-<tr>
-<td>Ferramentas</td>
-<td>Git e GitHub</td>
-<td>Versionamento e organização de projetos</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/01-FF0080?style=for-the-badge"/>
+
+### 💡 Ideia
+
+<sub>Planejar o que vou construir.</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/02-7928CA?style=for-the-badge"/>
+
+### 🎨 Interface
+
+<sub>Organizar o visual e a experiência.</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/03-0070F3?style=for-the-badge"/>
+
+### ⚙️ Código
+
+<sub>Desenvolver as funcionalidades.</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/04-00C9A7?style=for-the-badge"/>
+
+### 🚀 Evolução
+
+<sub>Testar, corrigir e melhorar.</sub>
+
+</td>
 </tr>
 </table>
 
-</div>
-
----
-
-## `07` / EXPLORAR
-
-<div align="center">
-
-<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/01%20%2F%20REPOSIT%C3%93RIOS-111111?style=for-the-badge&logo=github&logoColor=FF4545"/></a>
-
-<a href="https://github.com/DavyRomano?tab=projects"><img src="https://img.shields.io/badge/02%20%2F%20PROJETOS-111111?style=for-the-badge&logo=github&logoColor=FF4545"/></a>
-
-<a href="https://github.com/DavyRomano"><img src="https://img.shields.io/badge/03%20%2F%20PERFIL-B91C1C?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=600&color=FFD000&center=true&vCenter=true&width=650&lines=Escrever+c%C3%B3digo+%C3%A9+s%C3%B3+o+come%C3%A7o.;Testar+e+melhorar+faz+parte+do+processo.;Todo+projeto+ensina+algo+novo." alt="Processo animado"/>
 
 </div>
 
 ---
 
+## 🎯 `05` — Próximos desafios
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=750&color=FF4545&center=true&vCenter=true&width=700&lines=IDEIAS+SE+TORNAM+PROJETOS.;C%C3%93DIGO+SE+TORNA+EXPERI%C3%8ANCIA.;O+PR%C3%93XIMO+PASSO+COME%C3%87A+AGORA." alt="Mensagem final"/>
+| 🔥 Área | 🎯 O que quero desenvolver |
+|:---|:---|
+| 🌐 Front-End | Interfaces cada vez mais interativas |
+| ⚙️ Back-End | Aplicações com funcionalidades completas |
+| 🗄️ SQL | Consultas e modelagem de dados |
+| 🔗 APIs | Integrar serviços e aplicações |
+| 🧩 Projetos | Criar soluções práticas para problemas reais |
+
+</div>
+
+---
+
+## 🌐 `06` — Explore meus links
+
+<div align="center">
+
+<a href="https://github.com/DavyRomano"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/DavyRomano?tab=repositories"><img src="https://img.shields.io/badge/REPOSITÓRIOS-FF0080?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/DavyRomano/PetLife"><img src="https://img.shields.io/badge/PETLIFE-0070F3?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/DavyRomano">
-<img src="https://img.shields.io/badge/DAVY%20ROMANO-090909?style=for-the-badge&logo=github&logoColor=FF4545"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:7928CA,40:0070F3,60:00C9A7,80:FFD000,100:FF0080&height=4" alt="Linha multicolorida"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=FF4DAD&center=true&vCenter=true&width=700&lines=Obrigado+por+visitar+meu+perfil!;Vamos+transformar+ideias+em+projetos.;O+pr%C3%B3ximo+passo+come%C3%A7a+agora." alt="Mensagem final animada"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,30:250505,65:991B1B,100:030303&height=150&section=footer" alt="Rodapé vermelho animado"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:7928CA,40:0070F3,60:00C9A7,80:FFD000,100:FF0080&height=160&section=footer" alt="Rodapé multicolorido"/>
 
-<sub>Desenvolvido com código, prática e vontade de evoluir.</sub>
+<sub>Feito com curiosidade, prática e muitas linhas de código. 💜</sub>
 
 </div>
