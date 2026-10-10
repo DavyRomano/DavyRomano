@@ -1,169 +1,126 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,35:111827,65:312E81,100:0891B2&text=DAVY%20ROMANO&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20WEB%20ENGINEERING&descAlignY=58&descSize=14&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:4C1D95,80:4338CA,100:0891B2&height=250&section=header&text=DAVY%20ROMANO&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT&descSize=16&descAlignY=60"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+for+the+web.;Engineering+ideas+into+experiences.;Learn.+Build.+Refine.+Repeat." alt="Animação de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=Web+Developer+in+progress;Turning+ideas+into+code;Building+something+cool..." alt="Texto animado"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Animação de programação"/>
 
 <br/><br/>
 
 <a href="https://github.com/DavyRomano?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/MY%20PROJECTS-0B1020?style=for-the-badge&logo=github&logoColor=818CF8"/>
 </a>
 <a href="https://github.com/DavyRomano/PetLife">
-<img src="https://img.shields.io/badge/FEATURED%20PROJECT-0B1220?style=for-the-badge&logo=codefactor&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/PETLIFE-0B1020?style=for-the-badge&logo=code&logoColor=22D3EE"/>
 </a>
 
 </div>
 
 ---
 
-## `01 / PROFILE`
+<div align="center">
 
-```typescript
-const developer = {
+## `01` — WHO AM I?
+
+</div>
+
+```javascript
+const davy = {
   name: "Davy Romano",
-  focus: "Web Development",
-  stack: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["PHP"],
-    database: ["MySQL"],
-  },
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  mindset: ["Problem Solving", "Continuous Learning", "Clean Code"],
+  role: "Web Developer in progress",
+  languages: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+  tools: ["VS Code", "Git", "GitHub", "Figma"],
+  focus: "Building projects and learning every day"
 };
 ```
 
-I build web projects while developing my skills in software engineering, interface design, and database development.
+I'm learning web development by creating projects, experimenting with code, and improving my skills one step at a time.
 
-My focus is on understanding how things work, writing maintainable code, and turning ideas into practical digital experiences.
-
-> **Current approach:** Learn the fundamentals, build real projects, and improve through iteration.
+- Developing websites and interfaces.
+- Exploring frontend and backend development.
+- Learning databases and programming logic.
+- Turning ideas into real projects.
 
 ---
 
-## `02 / TECHNOLOGY STACK`
-
 <div align="center">
 
-**CORE TECHNOLOGIES**
+## `02` — MY TECH STACK
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" alt="Core technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" alt="Linguagens e tecnologias"/>
 
 <br/><br/>
 
-**DEVELOPMENT ENVIRONMENT**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Ferramentas"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` — FEATURED PROJECT
+
+<a href="https://github.com/DavyRomano/PetLife">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DavyRomano&repo=PetLife&hide_border=true&bg_color=080B16&title_color=818CF8&icon_color=22D3EE&text_color=E2E8F0" alt="PetLife"/>
+</a>
+
+### 🐾 PetLife
+
+A web development project focused on the pet universe, combining interface design, page organization, and web technologies.
+
+<a href="https://github.com/DavyRomano/PetLife">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` — THE DEVELOPER ZONE
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Animação de código"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools"/>
+| Area | Current focus |
+|:---:|:---|
+| `01` | Frontend development |
+| `02` | JavaScript and interactivity |
+| `03` | PHP and MySQL |
+| `04` | UI/UX and responsive design |
 
 </div>
 
 ---
 
-## `03 / SELECTED WORK`
-
 <div align="center">
 
-<a href="https://github.com/DavyRomano/PetLife">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DavyRomano&repo=PetLife&hide_border=true&bg_color=080D1B&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1" alt="PetLife repository"/>
-</a>
+## `05` — NEXT LEVEL
 
-</div>
+<img src="https://img.shields.io/badge/LEARN-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILD-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMPROVE-0891B2?style=flat-square"/>
 
-### PetLife — Web Project
+<br/><br/>
 
-A web project focused on the pet universe, combining page structure, visual design, and web development fundamentals.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=No+limits.+Just+progress.;One+line+at+a+time.;Keep+building." alt="Frases animadas"/>
 
-| Area | Focus |
-|---|---|
-| Interface | Layout, visual hierarchy and responsive design |
-| Frontend | HTML, CSS and JavaScript |
-| Backend | PHP and database integration where implemented |
-| Engineering | File organization, maintainability and iterative improvement |
-
-<div align="center">
-
-<a href="https://github.com/DavyRomano/PetLife">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `04 / ENGINEERING PRINCIPLES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Maintainability
-
-Readable code, clear naming, and a structure that makes future changes easier.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ User Experience
-
-Interfaces that prioritize usability, consistency, and responsive behavior.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Problem Solving
-
-Breaking complex problems into smaller, testable steps.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Continuous Improvement
-
-Learning from implementation, debugging, and feedback.
-
-</td>
-</tr>
-</table>
-
----
-
-## `05 / CURRENT ROADMAP`
-
-```text
-WEB ENGINEERING
-├── Strengthen JavaScript fundamentals
-├── Build responsive and accessible interfaces
-├── Improve PHP application structure
-├── Practice SQL and relational database design
-└── Learn testing, debugging and version control
-```
-
----
-
-## `06 / CONNECT & EXPLORE`
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/DavyRomano?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=818CF8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=Good+software+is+built+with+intention.;Consistency+beats+shortcuts.;Always+building.+Always+learning." alt="Development philosophy"/>
-
-<br/><br/>
-
-<sub>DESIGNED IN DARK MODE · BUILT WITH CODE · IMPROVED EVERY DAY</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0891B2,45:4F46E5,75:312E81,100:030712"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,30:4338CA,65:4C1D95,100:020617&height=140&section=footer"/>
 
 </div>
