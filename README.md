@@ -1,90 +1,131 @@
-<!-- HEADER ANIMADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:312E81,100:06B6D4&height=220&section=header&text=DAVY%20ROMANO&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=TECH%20%7C%20INNOVATION%20%7C%20DEVELOPMENT&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:312E81,65:6D28D9,100:06B6D4&height=250&section=header&text=DAVY%20ROMANO&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=TECNOLOGIA%20%7C%20CRIATIVIDADE%20%7C%20INOVACAO&descSize=16&descAlignY=57&stroke=8B5CF6&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+ideas+into+digital+experiences;Web+Development+%7C+Software+%7C+Technology;Learning+today.+Building+for+tomorrow." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&lines=Transformando+ideias+em+projetos+digitais;Desenvolvimento+Web+%7C+Programacao;Aprendendo+hoje%2C+construindo+o+amanha;Criatividade+e+tecnologia+em+evolucao" />
 
 <br/>
 
 <a href="https://github.com/DavyRomano">
-<img src="https://img.shields.io/badge/GitHub-DavyRomano-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-DAVYROMANO-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=312E81" />
 </a>
-<img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-312E81?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/MINDSET-INNOVATION-0891B2?style=for-the-badge&logo=lightbulb&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-111827?style=for-the-badge&logo=visualstudiocode&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/MINDSET-INOVACAO-111827?style=for-the-badge&logo=rocket&logoColor=8B5CF6" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DavyRomano&style=for-the-badge&color=6D28D9&label=VISITAS+AO+PERFIL" />
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
-
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I'm **Davy Romano**, a technology student focused on software development, web technologies and digital innovation.
-
-- Building projects and turning ideas into reality.
-- Exploring modern web development and programming.
-- Learning software architecture, databases and application development.
-- Focused on continuous improvement and creating useful solutions.
-
-<br clear="right"/>
-
-## ◈ TECHNOLOGY STACK
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode&theme=dark" />
+## ⚡ SOBRE MIM
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 </div>
 
-## ◈ FEATURED PROJECTS
+Sou estudante de **Técnico em Informática**, apaixonado por programação, desenvolvimento web e criação de projetos digitais.
+
+- 💻 Desenvolvendo projetos para colocar ideias em prática.
+- 🌐 Explorando tecnologias para aplicações web.
+- 🧠 Aprendendo programação, banco de dados e desenvolvimento de software.
+- 🚀 Evoluindo a cada projeto, sempre buscando novos desafios.
+- 🎯 Meu objetivo é transformar conhecimento em soluções úteis e criativas.
+
+---
+
+<div align="center">
+
+## 🛠️ TECNOLOGIAS QUE ESTOU EXPLORANDO
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode&theme=dark&perline=5" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 PROJETOS EM DESTAQUE
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### PetLife
+<div align="center">
 
-A web project focused on pet care, services and product management.
+### 🐾 PetLife
 
-**Stack:** HTML · CSS · JavaScript · PHP
+<img src="https://img.shields.io/badge/PROJETO-WEB-312E81?style=for-the-badge&logo=github" />
+
+</div>
+
+Projeto web voltado ao universo pet, com páginas de serviços, produtos e funcionalidades para praticar desenvolvimento web.
+
+**Tecnologias:** HTML, CSS, JavaScript e PHP.
+
+<div align="center">
 
 <a href="https://github.com/DavyRomano">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECT-312E81?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VER_PROJETOS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### DWS Library API
+<div align="center">
 
-A library project integrating a Flask backend with a web interface.
+### 📚 DWS Biblioteca
 
-**Stack:** Python · Flask · JavaScript · HTML · CSS
+<img src="https://img.shields.io/badge/API-FLASK-0891B2?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+Projeto de biblioteca com uma API em Python e Flask integrada a uma interface web.
+
+**Tecnologias:** Python, Flask, JavaScript, HTML e CSS.
+
+<div align="center">
 
 <a href="https://github.com/DavyRomano/DWS-Biblioteca">
-<img src="https://img.shields.io/badge/VIEW-REPOSITORY-0891B2?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/ACESSAR_REPOSITORIO-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-## ◈ CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Learn+continuously.;Build+with+purpose.;Create+technology+that+makes+a+difference." alt="Mission" />
-
-</div>
-
 ---
 
 <div align="center">
 
-### THINK BIG. BUILD SMART. KEEP EVOLVING.
+## 🌌 MINHA FILOSOFIA
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:080B16&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Grandes+ideias+comecam+com+curiosidade.;Cada+projeto+e+uma+nova+oportunidade.;O+proximo+nivel+comeca+com+aprendizado." />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:312E81,75:6D28D9,100:050816&height=150&section=footer&animation=fadeIn" />
+
+**DESENVOLVENDO O PRESENTE. CONSTRUINDO O FUTURO.**
 
 </div>
