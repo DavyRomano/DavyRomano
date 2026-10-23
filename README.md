@@ -6,7 +6,7 @@
 
 </div>
 
-## Tecnologias
+## Technologies
 
 <div align="center">
 
